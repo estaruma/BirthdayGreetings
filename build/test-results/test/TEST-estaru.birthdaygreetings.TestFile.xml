@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="estaru.birthdaygreetings.TestFile" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-20T09:28:30" hostname="M-VCMW35WP0G" time="0.504">
+  <properties/>
+  <testcase name="testSendBirthdayMessage()" classname="estaru.birthdaygreetings.TestFile" time="0.504"/>
+  <system-out><![CDATA[john.doe@hotmail.com
+Happy birthday
+Happy birthday, dear John
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
