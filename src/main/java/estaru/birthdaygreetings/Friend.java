@@ -32,7 +32,6 @@ public class Friend {
         return email;
     }
 
-    // Friends born on February, 29th should have their Birthday greeted on February, 28th
 
     public boolean isBirthday(LocalDate today) {
         if (dateOfBirth.getMonthValue() == 2 && dateOfBirth.getDayOfMonth() == 2 && !today.isLeapYear()) {
